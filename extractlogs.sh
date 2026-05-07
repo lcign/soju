@@ -3,9 +3,9 @@
 DB="$1"
 OUTDIR="$2"
 
-# ----------------------------
+# -----------------------------
 # CHECK PARAMETRI OBBLIGATORI
-# ----------------------------
+# -----------------------------
 if [ -z "$DB" ] || [ -z "$OUTDIR" ]; then
     echo "Usage: $0 database.sqlite output_folder"
     exit 1
