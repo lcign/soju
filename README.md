@@ -9,6 +9,7 @@ This script extract logs to a specified folder creating txt files for each chann
 
 The database sqlite parameter must be the **main db** file, 
 for example main.db and must be with its main.db-shm and main.db-wal
+Don't forget to make script executable with " chmod +extractlogs.sh "
 
 Example
 
