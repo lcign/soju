@@ -33,7 +33,7 @@ fi
 if [ -d "$OUTDIR" ]; then
     echo "Directory '$OUTDIR' already exists!"
 
-    read -p "Vuoi cancellarla e rigenerare i log? (s/n): " answer
+    read -p "Do you want to delete it and rigenerate logs? (y/n): " answer
 
     case "$answer" in
         s|S|y|Y)
