@@ -16,4 +16,5 @@ Example
 It creates a directory "logs" where put all channels logs grouped by channel name with lines like this:
 
 2026-05-03 - [14:07:18] - user1 (╯°□°)╯︵ ┻━┻
+
 2026-05-03 - [14:07:22] - user2 this is really cool
