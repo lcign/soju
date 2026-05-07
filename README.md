@@ -2,6 +2,8 @@
 Some scripts helpful for soju users
 
 *extractlogs.sh*
+<img width="1073" height="652" alt="screenshot" src="https://github.com/user-attachments/assets/490fd31b-3fb7-463d-a4b1-116e3f1e510f" />
+
 
 Usage: ./extractlogs.sh database.sqlite output_folder
 
