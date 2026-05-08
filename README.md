@@ -7,7 +7,7 @@ Some scripts helpful for soju users
 
 Usage: ./extractlogs.sh database.sqlite output_folder
 
-This script extract logs to a specified folder creating txt files for each channel.
+This script extracts logs to a specified folder creating txt files for each channel.
 
 The database sqlite parameter must be the **main db** file, 
 for example main.db and must be with its main.db-shm and main.db-wal . Don't forget to make script executable with " chmod +x extractlogs.sh "
